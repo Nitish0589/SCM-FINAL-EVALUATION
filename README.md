@@ -58,3 +58,15 @@ Released by Novesh ahead of the deadline, which was May 15, 2024 and pulled by t
 
 10. Version 1.0 Release:
 First version of the Survey Form released at 12:17 PM IST on May 15, 2024.
+
+11. Form Page-1,2 and Home Page Version-2 Release:
+Released by Nitish ahead of the deadline, which was May 15, 2024 and pulled by the leader at 11:21 PM IST on May 7, 2024.
+
+12. Thank You page and Login Page Release:
+Released by Novesh ahead of the deadline, which was May 15, 2024 and pulled by the leader at 11:21 PM IST on May 15, 2024.
+
+13. Contact Us Page and About Us Page Version-2 Release:
+Released by Onik ahead of the deadline, which was May 15, 2024 and pulled by the leader at 11:25 PM IST on May 9, 2024.
+
+14. Version 2.0 Release:
+First version of the Survey Form released at 12:17 AM IST on May 16, 2024.
