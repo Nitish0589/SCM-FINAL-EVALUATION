@@ -15,6 +15,18 @@ Welcome to the Survey Form project! This is a front-end web development project 
 2. NOVESH SHARMA - 2310990590
 3. ONIK CHUGH - 2310990591
 
+## Features
+
+|Sno.| Feature         | Primary Owner | Secondary Owner   |
+|----|-----------------|---------------|-------------------|
+| 1. | Survey Form     | Nitish        | Onik              |
+| 2. | Home Page       | Nitish        | Novesh            |
+| 3. | Login Page      | Novesh        | Nitish            |
+| 4. | Thankyou Page   | Novesh        | Nitish            |
+| 5. | Contact us Page | Onik          | Nitish            |    
+| 6. | About us Page   | Onik          | Nitish            |
+
+
 # Timeline of Releases
 
 1. Project Preview:
