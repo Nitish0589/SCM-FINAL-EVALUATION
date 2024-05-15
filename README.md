@@ -9,7 +9,10 @@ Welcome to the Survey Form project! This is a front-end web development project 
 2. CSS
 3. Javascript
 
-
+## Releases:
+1. v1.0
+2. v2.0
+3. v3.0
 
 ## TEAM MEMBERS:
 
