@@ -9,7 +9,10 @@ Welcome to the Survey Form project! This is a front-end web development project 
 2. CSS
 3. Javascript
 
-
+## Releases:
+1. v1.0
+2. v2.0
+3. v3.0
 
 ## TEAM MEMBERS:
 
@@ -71,7 +74,7 @@ Released by Novesh ahead of the deadline, which was May 15, 2024 and pulled by t
 Released by Onik ahead of the deadline, which was May 15, 2024 and pulled by the leader at 11:25 PM IST on May 15, 2024.
 
 14. Version 2.0 Release:
-First version of the Survey Form released at 12:17 AM IST on May 16, 2024.
+Second version of the Survey Form released at 12:17 AM IST on May 16, 2024.
 
 15. Form Page-1,2 and Home Page Version-3 Release:
 Released by Nitish ahead of the deadline, which was May 16, 2024 and pulled by the leader at 1:53 AM IST on May 16, 2024.
@@ -81,3 +84,7 @@ Released by Novesh ahead of the deadline, which was May 16, 2024 and pulled by t
 
 17. Contact Us Page and About Us Page Version-2 Release:
 Released by Onik ahead of the deadline, which was May 16, 2024 and pulled by the leader at 2:15 AM IST on May 16, 2024.
+
+18. Version 3.0 Release:
+Third and Final version of the Survey Form released at 2:47 AM IST on May 16, 2024.
+
